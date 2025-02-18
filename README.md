@@ -1,5 +1,5 @@
 # Pose Detection Projesi
-#210202067 Furksn TÜRKOĞLU
+#210202067 Furkan TÜRKOĞLU
 ## Proje Hakkında
 Bu proje, MobileNetV2 kullanarak insan vücudundaki 16 anahtar noktayı tespit eden bir yapay zeka sistemidir. Yüksek performans ve doğruluk hedeflenerek geliştirilmiştir.
 
